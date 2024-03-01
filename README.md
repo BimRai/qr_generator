@@ -1,0 +1,3 @@
+npm packages used:
+https://www.npmjs.com/package/inquirer
+https://www.npmjs.com/package/qr-image
